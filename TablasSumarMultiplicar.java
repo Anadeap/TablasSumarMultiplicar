@@ -25,7 +25,7 @@ public class TablasSumarMultiplicar {
                 System.out.println(n + "+" + i + "=" + (n+i));
             }
             // tabla de multiplicar
-            System.out.println("Tabla de multiplicar del número " + n);
+            System.out.println("\nTabla de multiplicar del número " + n);
             for(int i=0;i<=10;i++){
                 System.out.println(n + "*" + i + "=" + (n*i));
             }
