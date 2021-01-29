@@ -20,7 +20,7 @@ public class TablasSumarMultiplicar {
             // se almacena el número introducido en la variable n
             n=numero.nextInt();
             // tabla de sumar
-            System.out.println("Tabla de sumar del número " + n);
+            System.out.println("\nTabla de sumar del número " + n);
             for(int i=0;i<=10;i++){
                 System.out.println(n + "+" + i + "=" + (n+i));
             }
